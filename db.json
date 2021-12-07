@@ -1,0 +1,11 @@
+{
+    "note": [
+    { "id": 1, "firstname": "Json", "lastname": "server" ,"phonenumber":"023456","role":"Developer","message":"Impoartant msg"}
+    ,
+     
+    { "id": 2, "firstname": "Ricky", "lastname": "Norman" ,"phonenumber":"0455677","role":"Designer","message":"Come on time "}
+    ,
+    
+    { "id": 3, "firstname": "Martta", "lastname": "Maggy" ,"phonenumber":"095765","role":"Manager","message":"Lets meet in the office"}
+    ]
+}
