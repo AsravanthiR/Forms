@@ -1,11 +1,10 @@
 import React from "react";
 
-const Note = ({ firstname, lastname, phonenumber, role, message }) => {
+const Note = ({ firstname, lastname, phone, role, message }) => {
   return (
-    <div classname="note">
+    <div className="note">
       <p>
-        {firstname} {lastname} - {role}| {phonenumber} |{" "}
-        <strong>{message}</strong>
+        {firstname} {lastname} - {role}| {phone} |<strong>{message}</strong>
       </p>
     </div>
   );
